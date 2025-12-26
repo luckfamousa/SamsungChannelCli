@@ -1,0 +1,365 @@
+﻿Number	Name	Source	RecordIndex
+1	Das Erste HD	map-SateD	288
+2	ZDF HD	map-SateD	63
+3	WDR HD Essen	map-SateD	175
+4	NDR FS NDS HD	map-SateD	283
+5	zdf_neo HD	map-SateD	5
+6	ZDFinfo HD	map-SateD	6
+7	3sat HD	map-SateD	213
+8	SWR BW HD	map-SateD	290
+9	MDR Sachsen HD	map-SateD	341
+10	arte HD	map-SateD	289
+11	ONE HD	map-SateD	322
+12	SAT.1	map-SateD	0
+13	ProSieben	map-SateD	1
+14	VOX	map-SateD	2
+15	kabel eins	map-SateD	3
+16	ntv	map-SateD	4
+17	TELE 5	map-SateD	7
+18	KiKA HD	map-SateD	214
+19	DMAX	map-SateD	8
+20	SPORT1	map-SateD	9
+21	Disney Channel	map-SateD	10
+22	DELUXE MUSIC	map-SateD	11
+23	Comedy Central	map-SateD	12
+24	SERIEN+	map-SateD	13
+25	SAT.1 NRW	map-SateD	14
+26	NITRO Austria	map-SateD	15
+27	Genius Family	map-SateD	16
+28	Astra Demo	map-SateD	17
+29	ANIXE HD	map-SateD	18
+30	HSE SD	map-SateD	19
+31	QVC Deutschland	map-SateD	20
+32	Sonnenklar TV	map-SateD	21
+33	RTLup	map-SateD	22
+34	meinTVshop	map-SateD	23
+35	Bibel TV	map-SateD	24
+36	VOXup	map-SateD	25
+37	RTL HB NDS	map-SateD	26
+38	Kabel 1 Austria	map-SateD	27
+39	SAT.1 A	map-SateD	28
+40	SAT.1 RhlPf/Hessen	map-SateD	29
+41	SAT.1 NS/Bremen	map-SateD	30
+42	Genius Exklusiv	map-SateD	31
+43	Spirit TV	map-SateD	32
+44	One Terra	map-SateD	33
+45	Deluxe Rap	map-SateD	34
+46	Just Cooking	map-SateD	35
+47	Just Fishing	map-SateD	36
+48	Crime Time	map-SateD	37
+49	Astra Demo	map-SateD	38
+50	Astra Demo	map-SateD	39
+51	Astra Demo	map-SateD	40
+52	Xplore	map-SateD	41
+53	RTL Austria	map-SateD	42
+54	VOX Austria	map-SateD	43
+55	RTLZWEI Austria	map-SateD	44
+56	Astra Demo	map-SateD	45
+57	Astra Demo	map-SateD	46
+58	Astra Demo	map-SateD	47
+59	Astra Demo	map-SateD	48
+60	Astra Demo	map-SateD	49
+61	Astra Demo	map-SateD	50
+62	Astra Demo	map-SateD	51
+63	Astra Demo	map-SateD	52
+64	TV5 MONDE EUROPE HD	map-SateD	53
+65	QVC HD	map-SateD	54
+66	HSE HD	map-SateD	55
+67	SES 75	map-SateD	56
+68		map-SateD	57
+69		map-SateD	58
+70		map-SateD	59
+71		map-SateD	60
+72		map-SateD	61
+73	TEST RA	map-SateD	62
+74	PORTADA	map-SateD	64
+75	GUÍA	map-SateD	65
+76		map-SateD	66
+77		map-SateD	67
+78		map-SateD	68
+79	Antig. ALQUILER G1	map-SateD	69
+80	ALQUILER	map-SateD	70
+81	PORTADA	map-SateD	71
+82		map-SateD	72
+83		map-SateD	73
+84		map-SateD	74
+85	CONTRATO	map-SateD	75
+86	TEST TÉCNICO	map-SateD	76
+87	TEST_CSD1	map-SateD	77
+88	TEST_CSD2	map-SateD	78
+89	TEST_CSD3	map-SateD	79
+90	TEST_CSD4	map-SateD	80
+91	TEST_CSD5	map-SateD	81
+92	TJ	map-SateD	82
+93		map-SateD	83
+94	LILO.TV	map-SateD	84
+95	Bibel TV HD	map-SateD	85
+96	Service 13226	map-SateD	86
+97	Hope TV	map-SateD	87
+98	RTLup Austria	map-SateD	88
+99	Service 13232	map-SateD	89
+100	Service 13233	map-SateD	90
+101	DF1 HD	map-SateD	91
+102	zdf_neo SD	map-SateD	92
+103	CGTN HD	map-SateD	93
+104	CGTN Documentary	map-SateD	94
+105	SES 01	map-SateD	95
+106	SES 02	map-SateD	96
+107	.	map-SateD	97
+108	SES 04	map-SateD	98
+109	SES 06	map-SateD	99
+110	SES 07	map-SateD	100
+111	SES 08	map-SateD	101
+112	SES 09	map-SateD	102
+113	SES 10	map-SateD	103
+114	.	map-SateD	105
+115	.	map-SateD	106
+116	.	map-SateD	107
+117	.	map-SateD	108
+118	.	map-SateD	109
+119	.	map-SateD	110
+120	.	map-SateD	111
+121	Arirang  HD	map-SateD	112
+122	France 24 (en Francais)	map-SateD	113
+123	France 24 (in English)	map-SateD	114
+124	DOKUSAT	map-SateD	115
+125	KiKA SD	map-SateD	116
+126	ZDF SD	map-SateD	117
+127	ZDFinfo SD	map-SateD	118
+128	Nick/Comedy Central+1	map-SateD	119
+129	ProSieben Austria	map-SateD	120
+130	SAT.1 HH/SH	map-SateD	121
+131	DYN Sport Mix	map-SateD	122
+132	.	map-SateD	123
+133	.	map-SateD	124
+134	.	map-SateD	125
+135	.	map-SateD	126
+136	.	map-SateD	127
+137	Immer etwas Neues TV	map-SateD	128
+138	MediaShop- Meine Einkaufswelt	map-SateD	129
+139	NICER DICER TV	map-SateD	130
+140	Channel21	map-SateD	131
+141	pearl.tv Shop	map-SateD	132
+142	FOLX MUSIC TELEVISION	map-SateD	133
+143	TLC Austria	map-SateD	134
+144	SUPER RTL	map-SateD	135
+145	NITRO	map-SateD	136
+146	RTL Regional NRW	map-SateD	137
+147	RTL Bayern	map-SateD	138
+148	SUPER RTL A	map-SateD	139
+149	Eurosport 1 Deutschland	map-SateD	140
+150	HSE Extra	map-SateD	141
+151	N24 DOKU	map-SateD	142
+152	EWTN katholisches TV	map-SateD	143
+153	Handystar TV	map-SateD	144
+154	1-2-3.tv	map-SateD	145
+155	QVC	map-SateD	146
+156	TLC	map-SateD	147
+157	DMF	map-SateD	148
+158	ANIXE+	map-SateD	149
+159	Baden TV	map-SateD	150
+160	MediaShop- Neuheiten	map-SateD	151
+161	Handystar TV 2	map-SateD	152
+162	Genius Trend	map-SateD	153
+163	REGIO TV	map-SateD	154
+164	HSE Trend SD	map-SateD	155
+165	SAT.1 Gold	map-SateD	156
+166	SAT.1 Bayern	map-SateD	157
+167	sonnenklar.TV HD	map-SateD	158
+168	Juwelo HD	map-SateD	159
+169	pearl.tv HD Shop	map-SateD	160
+170	.	map-SateD	161
+171	Sky News Intl	map-SateD	162
+172	Sexy Treff TV	map-SateD	163
+173	TeleSex TV	map-SateD	164
+174	Time of Change.TV	map-SateD	165
+175	MBS - Test2	map-SateD	166
+176	TELEGOLD SD	map-SateD	167
+177	More Than Sports TV	map-SateD	168
+178	GayBoys LIVE	map-SateD	169
+179	Shop LC	map-SateD	170
+180	Dreamgirls24 TV temp	map-SateD	171
+181	Eroticsat24 TV temp	map-SateD	172
+182	Sexy Girls TV	map-SateD	173
+183	Heisse Dates TV	map-SateD	174
+184	Hot Babes TV	map-SateD	176
+185	Mobile Sex	map-SateD	177
+186	SEX-Kontakte	map-SateD	178
+187	Traumfrauen TV	map-SateD	179
+188	Heiss und Sexy TV	map-SateD	180
+189	MBS - Test3	map-SateD	181
+190	Babestation24	map-SateD	182
+191	EROTIKA TV - NEU!	map-SateD	183
+192	DOKUSAT SD	map-SateD	184
+193	LT1-OOE	map-SateD	185
+194	Shop LC	map-SateD	186
+195	Neuer Sender	map-SateD	187
+196	Genius TV	map-SateD	188
+197	L-TV	map-SateD	189
+198	EWTN katholisches TV HD	map-SateD	190
+199	SWR RP HD	map-SateD	191
+200	Astra Demo	map-SateD	192
+201	RTL HH SH	map-SateD	193
+202	ShopLC HD	map-SateD	194
+203	.	map-SateD	195
+204	.	map-SateD	196
+205	.	map-SateD	197
+206	GUÍA FÁCIL	map-SateD	198
+207	BAJO DEMANDA	map-SateD	199
+208		map-SateD	200
+209	.	map-SateD	201
+210	.	map-SateD	202
+211	Schlager Deluxe	map-SateD	203
+212	HGTV	map-SateD	204
+213	.	map-SateD	205
+214	.	map-SateD	206
+215	.	map-SateD	207
+216	.	map-SateD	208
+217	.	map-SateD	209
+218	TEST TOROS	map-SateD	210
+219	CANAL SUR A.	map-SateD	211
+220	ARAGON TV INT	map-SateD	212
+221	CGTN Francais	map-SateD	215
+222	WDR HD Köln	map-SateD	216
+223	WDR HD Aachen	map-SateD	217
+224	WDR HD Bielefeld	map-SateD	218
+225	WDR HD Bonn	map-SateD	219
+226	WDR HD Dortmund	map-SateD	220
+227	WDR HD Duisburg	map-SateD	221
+228	WDR HD Düsseldorf	map-SateD	222
+229	WDR HD Münster	map-SateD	223
+230	WDR HD Siegen	map-SateD	224
+231	WDR HD Wuppertal	map-SateD	225
+232	WDR Test-R	map-SateD	226
+233	TRT WORLD HD	map-SateD	227
+234	BR Fernsehen Süd HD	map-SateD	228
+235	BR Fernsehen Nord HD	map-SateD	229
+236	NDR FS MV HD	map-SateD	230
+237	NDR FS HH HD	map-SateD	231
+238	NDR FS SH HD	map-SateD	232
+239	phoenix HD	map-SateD	233
+240	SAT.1 Gold Österreich	map-SateD	234
+241	Pro7 MAXX Austria	map-SateD	235
+242	kabel1 Doku austria	map-SateD	236
+243	sixx AUSTRIA	map-SateD	237
+244	4mediathek	map-SateD	238
+245	MTV	map-SateD	239
+246	MTV	map-SateD	240
+247	.	map-SateD	241
+248	DMAX Austria	map-SateD	242
+249	Deluxe Dance by Kontor	map-SateD	243
+250	LCP	map-SateD	244
+251	TOGGO plus	map-SateD	245
+252	Pro7 MAXX	map-SateD	246
+253	sixx	map-SateD	247
+254	kabel eins Doku	map-SateD	248
+255	volksmusik.tv	map-SateD	249
+256	.	map-SateD	250
+257	Höhenrausch	map-SateD	251
+258	WELT	map-SateD	252
+259	4MEDIATHEK	map-SateD	253
+260	Bloomberg Europe TV	map-SateD	254
+261	BAR4HD	map-SateD	255
+262	Vamos Bar HD	map-SateD	256
+263	Service 13231	map-SateD	257
+264	ORF HITRADIO OE3 VISUAL	map-SateD	258
+265	RiC NEU	map-SateD	259
+266	TV Berlin	map-SateD	260
+267	EURONEWS GERMAN SD PAL	map-SateD	261
+268	Daystar Espanol	map-SateD	262
+269	Telesur English	map-SateD	263
+270	CNN Int.	map-SateD	264
+271	Comedy Central HD.	map-SateD	265
+272	BVN	map-SateD	266
+273	Canal Algerie	map-SateD	267
+274	Algerie 3	map-SateD	268
+275	RTL Television	map-SateD	269
+276	SBN International	map-SateD	270
+277	ALT_Xplore	map-SateD	271
+278	ALT_One Terra	map-SateD	272
+279	ALT_Deluxe Rock	map-SateD	273
+280	ALT_Deluxe Rap	map-SateD	274
+281	ALT_Deluxe Dance by Kontor	map-SateD	275
+282	ALT_Deluxe Flashback	map-SateD	276
+283	ALT_Just Cooking	map-SateD	277
+284	ALT_Just Fishing	map-SateD	278
+285	ALT_Deluxe Lounge	map-SateD	279
+286	ALT_Höhenrausch	map-SateD	280
+287	ALT_Crime Time	map-SateD	281
+288	ALT_SERIEN+	map-SateD	282
+289	wedo movies	map-SateD	284
+290	TEST DZ5.	map-SateD	285
+291	Descarga Cisco	map-SateD	286
+292	HSE Extra HD	map-SateD	287
+293	1-2-3.tv HD	map-SateD	291
+294	QVC ZWEI HD	map-SateD	292
+295	rbb Brandenburg HD	map-SateD	293
+296	rbb Berlin HD	map-SateD	294
+297	MDR S-Anhalt HD	map-SateD	295
+298	MDR Thüringen HD	map-SateD	296
+299	hr-fernsehen HD	map-SateD	297
+300	.	map-SateD	298
+301	Handystar TV HD	map-SateD	299
+302	.	map-SateD	300
+303	Channel21 HD	map-SateD	301
+304	QVC STYLE HD	map-SateD	302
+305	.	map-SateD	303
+306	tagesschau24 HD	map-SateD	304
+307	ARD alpha HD	map-SateD	305
+308	SR Fernsehen HD	map-SateD	306
+309	Radio Bremen HD	map-SateD	307
+310	ARD-Test-R	map-SateD	308
+311	ARD-Test-1	map-SateD	309
+312	Die Neue Zeit TV	map-SateD	310
+313	Telesur HD	map-SateD	311
+314	SENDER NEU JERUSALEM	map-SateD	312
+315	SACHSEN EINS	map-SateD	313
+316	Anewz	map-SateD	314
+317	ntv Austria	map-SateD	315
+318	.	map-SateD	316
+319	K-TV HD	map-SateD	317
+320	BBC News	map-SateD	318
+321	NHK WORLD-JPN	map-SateD	319
+322	Al Jazeera English HD	map-SateD	320
+323	ORF 2 EUROPE HD	map-SateD	321
+324	Aristo TV	map-SateD	323
+325	R9 Oesterreich HD	map-SateD	324
+326	krone.tv	map-SateD	325
+327	oe24.TV HD	map-SateD	326
+328	TV1 OOE NEU	map-SateD	327
+329	Stimmungsgarten TV	map-SateD	328
+330	Melodie TV NEU	map-SateD	329
+331	TV Trwam	map-SateD	330
+332	.	map-SateD	331
+333	a.tv HD	map-SateD	332
+334	münchen.tv HD	map-SateD	333
+335	rfo Regional Fernsehen Oberbayern HD	map-SateD	334
+336	a.tv HD .	map-SateD	335
+337	tv.ingolstadt HD	map-SateD	336
+338	Lokal-TV-Portal HD	map-SateD	337
+339	NIEDERBAYERN TV HD	map-SateD	338
+340	OTVA HD	map-SateD	339
+341	Franken Plus HD	map-SateD	340
+342	WOTSCH	map-SateD	342
+343	DW English HD	map-SateD	343
+344	TVMonaco	map-SateD	344
+345	Cubavision Internacional	map-SateD	345
+346	CNN Int.	map-SateD	346
+347	BFM TV	map-SateD	347
+348	TV5 MONDE	map-SateD	348
+349	LCI	map-SateD	349
+350	CNEWS	map-SateD	350
+351	RTLZWEI	map-SateD	351
+352	DATASYSTEM	map-SateD	352
+353	.	map-SateD	353
+354	.	map-SateD	354
+355	.	map-SateD	355
+356	PANNEAU ARRET G5	map-SateD	356
+357	Service 13101	map-SateD	357
+358	Service 13111	map-SateD	358
+359	Zwei Music Television	map-SateD	359
+360	CNBC HD	map-SateD	360
+361	HGTV HD	map-SateD	361
+362	A LA UNE	map-SateD	362
+363	BFM BUSINESS	map-SateD	363
+364	3sat SD	map-SateD	104
